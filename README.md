@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, JavaScript, and MERN stack.
 - 🌱 I’m currently learning all things JavaScript and developing my portfolio.
 - 💞️ I’m looking to collaborate environmental and educational applications. Open to connecting with anyone in software development.
-- 📫 You can reach me at kaleigh.scoffield@gmail.com
+- 
 
 <!---
 kaleighsaphire/kaleighsaphire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
