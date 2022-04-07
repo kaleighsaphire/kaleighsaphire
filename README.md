@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kaleighsaphire
-- 👀 I’m interested in HTML, CSS, JavaScript, and MERN stack.
-- 🌱 I’m currently learning all things JavaScript and developing my portfolio.
-- 💞️ I’m looking to collaborate environmental and educational applications. Open to connecting with anyone in software development.
+- Hi, I’m Kaleigh
+- I’m interested in HTML, CSS, JavaScript, and MERN stack.
+- I’m currently learning all things JavaScript and developing my portfolio.
+- I’m looking to collaborate environmental and educational applications. Open to connecting with anyone in software development.
 
 
 <!---
