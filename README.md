@@ -11,12 +11,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaleighsaphire&show_icons=true&locale=en&layout=compact" alt="kaleighsaphire" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaleighsaphire&show_icons=true&locale=en" alt="kaleighsaphire" /></p>
-<hr/>
-
-## 🐍
-  <br>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/kaleighsaphire/kaleighsaphire/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
-
-<hr/>
