@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Kaleigh Saphire</h1>
-<h3 align="center">A Canadian Full-Stack Software Developer. With a focus on creating beautifully intuitive and accessible websites and apps.</h3>
+<h3 align="center">A Canadian Full-Stack Software Developer. With a focus on creating beautifully intuitive and accessible websites.</h3>
 
 <p align="left"> <a href="https://twitter.com/kalsaphire" target="blank"><img src="https://img.shields.io/twitter/follow/kalsaphire?logo=twitter&style=for-the-badge" alt="kalsaphire" /></a> </p>
 
