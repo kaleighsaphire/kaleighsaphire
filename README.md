@@ -16,4 +16,5 @@ With a focus on creating beautifully intuitive and accessible websites.</h3>
 
 <p align="center">
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kaleighsaphire&show_icons=true&locale=en" alt="kaleighsaphire" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaleighSaphire1&theme=dark)](https://git.io/streak-stats)
 </p>
