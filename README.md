@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">Hey, I'm Kaleigh. A Canadian, Full-Stack Software Developer. </br>
-With a focus on creating beautifully intuitive and accessible websites.</h3>
+Focusing on creating beautifully intuitive and accessible websites.</h3>
 
 
 
